@@ -4,7 +4,7 @@ Please read the instructions below carefully to complete this assignment. The as
 
 Go through the steps below one at a time systematically.
 
-- [ ] Create a new repository using this template.
+- [x] Create a new repository using this template.
 
 You will find a manuscript titled `Ranjan and Gandhi - 2023 - ...`. The assignment is based on this manuscript.
 
