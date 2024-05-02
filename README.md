@@ -45,7 +45,7 @@ There are two properties that we will examine:
  - [x] In the simulation, how many times do you see a transition from the unsynchronized to synchronized state? Write a function to count this.
  - [x] What is the transition time (figure above) of each transition? Write a function to compute this. You will have to come up with your own definition of the transition time based on the figure above.
  - [x] Make a box plot of the transition time to show the average and distribution around the average transition time.
- - [ ] Repeat the simulation with a few different sets of initial conditions.
+ - [x] Repeat the simulation with a few different sets of initial conditions.
  - [ ] Make a box plot showing both number of transitions and transition time across all simulations.
 
 ### Advanced simulations
