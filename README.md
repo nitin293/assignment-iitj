@@ -41,8 +41,8 @@ There are two properties that we will examine:
 
  ### Basic simulations
 
- - [ ] Simulate the model as it is without any changes. You should be able to do this using `tES/Mouse brain network/MBN_Res_Constraint.ipynb`.
- - [ ] In the simulation, how many times do you see a transition from the unsynchronized to synchronized state? Write a function to count this.
+ - [x] Simulate the model as it is without any changes. You should be able to do this using `tES/Mouse brain network/MBN_Res_Constraint.ipynb`.
+ - [x] In the simulation, how many times do you see a transition from the unsynchronized to synchronized state? Write a function to count this.
  - [ ] What is the transition time (figure above) of each transition? Write a function to compute this. You will have to come up with your own definition of the transition time based on the figure above.
  - [ ] Make a box plot of the transition time to show the average and distribution around the average transition time.
  - [ ] Repeat the simulation with a few different sets of initial conditions.
