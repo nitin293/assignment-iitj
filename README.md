@@ -12,9 +12,9 @@ You will also find a file named `solutions.md`. As you go through the assignment
 
 ## A model of epilepsy
 
-- [ ] Please read the manuscript
-- [ ] Based on this, what are the three major results that are presented in the study? Write them down in 1-2 lines in the `solutions.md` file in the area denoted for it.
-- [ ] We find some key nodes in the mouse brain that may be important for the propagation of synchronization. Please name a few of these key nodes.
+- [x] Please read the manuscript
+- [x] Based on this, what are the three major results that are presented in the study? Write them down in 1-2 lines in the `solutions.md` file in the area denoted for it.
+- [x] We find some key nodes in the mouse brain that may be important for the propagation of synchronization. Please name a few of these key nodes.
 
 Answer the above before proceeding, otherwise you will not understand the next section.
 
