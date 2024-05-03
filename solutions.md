@@ -29,7 +29,7 @@
 
 ### How many transitions do you see in a single simulation run?
 
-3
+2
 ![img](assets/1.png)
 
 
