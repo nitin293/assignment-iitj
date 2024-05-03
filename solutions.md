@@ -41,7 +41,7 @@
 Transition time refers to the duration when the brain network quickly changes from being unsynchronized to highly synchronized state. It is the period of rapid shift in synchronization levels across the network.
 
 ### What is the average transition time you observe? Include units!
-227 a.u. 
+11.35 a.u. 
 
 ![img](assets/1a.png)
 
